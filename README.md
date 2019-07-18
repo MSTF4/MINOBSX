@@ -1,3 +1,5 @@
+#<a><img src="https://github.com/MSTF4/MINOBSX/blob/master/read.svg"/></a>
+
 # PGM Project in 2018: Bayesian Network Structure Learning with Side Constraints by Andrew C. Li and Peter van Beek
 
 ## MINOBSx application is available in : https://github.com/acliuw/MINOBS-dp
@@ -8,4 +10,4 @@
 
 ### The test data uploaded as Datasets.zip
 
-<a><img src="https://github.com/MSTF4/MINOBSX/blob/master/read.svg"/></a>
+
