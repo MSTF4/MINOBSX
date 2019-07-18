@@ -10,4 +10,4 @@
 
 ### The test data uploaded as Datasets.zip
 
-###### <sub><sup>Powered by MSTF colored text in Markdown</sup></sub>
+###### <sub><sup>Powered by MSTF4 colored text in Markdown</sup></sub>
