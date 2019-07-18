@@ -5,3 +5,5 @@
 ### GOBNILP tools is available in : https://www.cs.york.ac.uk/aig/sw/gobnilp/
 
 ### CaMML application is available in http://bayesian-intelligence.com/software/
+
+### The test data uploaded as Datasets.zip
