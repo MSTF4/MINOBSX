@@ -1,0 +1,90 @@
+Number of data points: 250
+512
+Number of candidate parents: 179
+Pruned parent sets: 333
+Number of ancestral constraints: 1
+Pruning factor: 1.05663
+Time: 0.008 Generating initial population
+Time: 0.009 i = 0 The score is: 594294197
+Time: 0.01 i = 1 The score is: 594294197
+Time: 0.01 i = 2 The score is: 594294197
+Time: 0.011 i = 3 The score is: 594294197
+Time: 0.012 i = 4 The score is: 594294197
+Time: 0.012 i = 5 The score is: 594294197
+Time: 0.013 i = 6 The score is: 594294197
+Time: 0.013 i = 7 The score is: 594294197
+Time: 0.014 i = 8 The score is: 594294197
+Time: 0.014 i = 9 The score is: 594294197
+Time: 0.015 i = 10 The score is: 594294197
+Time: 0.015 i = 11 The score is: 594294197
+Time: 0.016 i = 12 The score is: 594294197
+Time: 0.017 i = 13 The score is: 594294197
+Time: 0.018 i = 14 The score is: 594294197
+Time: 0.018 i = 15 The score is: 594294197
+Time: 0.018 i = 16 The score is: 594294197
+Time: 0.019 i = 17 The score is: 594294197
+Time: 0.019 i = 18 The score is: 594294197
+Time: 0.02 i = 19 The score is: 594294197
+Done generating initial population
+Time: 0.027 The best score at this iteration is: 594294197
+Finished generation: 2
+Finished generation: 3
+Finished generation: 4
+Finished generation: 5
+Finished generation: 6
+Finished generation: 7
+Finished generation: 8
+Finished generation: 9
+Finished generation: 10
+Finished generation: 11
+Finished generation: 12
+Finished generation: 13
+Finished generation: 14
+Finished generation: 15
+Finished generation: 16
+Finished generation: 17
+Finished generation: 18
+Finished generation: 19
+Finished generation: 20
+Finished generation: 21
+Finished generation: 22
+Finished generation: 23
+Finished generation: 24
+Finished generation: 25
+Finished generation: 26
+Finished generation: 27
+Finished generation: 28
+Finished generation: 29
+Finished generation: 30
+Finished generation: 31
+Finished generation: 32
+Finished generation: 33
+Finished generation: 34
+Finished generation: 35
+Finished generation: 36
+Finished generation: 37
+Finished generation: 38
+Finished generation: 39
+Finished generation: 40
+Finished generation: 41
+Finished generation: 42
+Finished generation: 43
+Finished generation: 44
+Finished generation: 45
+Finished generation: 46
+Finished generation: 47
+Finished generation: 48
+Finished generation: 49
+Finished generation: 50
+Generations: 50
+Ordering[0]	= 2	Score:	175882113	Parents:	{ }	Valid: 1
+Ordering[1]	= 3	Score:	58729296	Parents:	{ 2 }	Valid: 1
+Ordering[2]	= 1	Score:	14656179	Parents:	{ }	Valid: 1
+Ordering[3]	= 5	Score:	3286101	Parents:	{ 1 3 }	Valid: 1
+Ordering[4]	= 4	Score:	167554109	Parents:	{ 2 }	Valid: 1
+Ordering[5]	= 7	Score:	96077980	Parents:	{ 4 5 }	Valid: 1
+Ordering[6]	= 6	Score:	54602521	Parents:	{ 5 }	Valid: 1
+Ordering[7]	= 0	Score:	23505898	Parents:	{ }	Valid: 1
+Total Score: 594294197 594294197 594294197
+Validity Check: Good
+Constraints check: Good
