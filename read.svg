@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="1000" height="50"
 >
-  <text font-size="48" x="100" y="100">
+  <text font-size="48" x="50" y="50">
     <tspan fill="red">PGM Project in 2018:</tspan>
     <tspan fill="green"> Bayesian Network Structure Learning with Side Constraints</tspan>
   </text>
