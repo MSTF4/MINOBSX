@@ -7,3 +7,5 @@
 ### CaMML application is available in http://bayesian-intelligence.com/software/
 
 ### The test data uploaded as Datasets.zip
+
+## <span style="color:red">some **This is Red Bold.** text</span>
