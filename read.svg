@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="2000" height="50"
 >
-  <text font-size="16" x="10" y="20">
+  <text font-size="48" x="10" y="20">
     <tspan fill="red">PGM</tspan>
     <tspan fill="green"> Project</tspan>2018
   </text>
